@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirCastDroidTV", "DirCastDroidTV\DirCastDroidTV.csproj", "{61BBDFDF-9706-4F3E-B67B-A2F82460CB19}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DirCastWebServer", "DirCastWebServer\DirCastWebServer.csproj", "{69987016-F5AA-44CA-8E0E-88DBC8CB68E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirCastCommon", "DirCastCommon\DirCastCommon.csproj", "{5B43804F-6D42-48D8-AA26-74CFC74187E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61BBDFDF-9706-4F3E-B67B-A2F82460CB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BBDFDF-9706-4F3E-B67B-A2F82460CB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BBDFDF-9706-4F3E-B67B-A2F82460CB19}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{61BBDFDF-9706-4F3E-B67B-A2F82460CB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BBDFDF-9706-4F3E-B67B-A2F82460CB19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61BBDFDF-9706-4F3E-B67B-A2F82460CB19}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{69987016-F5AA-44CA-8E0E-88DBC8CB68E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69987016-F5AA-44CA-8E0E-88DBC8CB68E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69987016-F5AA-44CA-8E0E-88DBC8CB68E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69987016-F5AA-44CA-8E0E-88DBC8CB68E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B43804F-6D42-48D8-AA26-74CFC74187E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B43804F-6D42-48D8-AA26-74CFC74187E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B43804F-6D42-48D8-AA26-74CFC74187E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B43804F-6D42-48D8-AA26-74CFC74187E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BF57100-D148-4493-8D43-66F5A5E52405}
+	EndGlobalSection
+EndGlobal
